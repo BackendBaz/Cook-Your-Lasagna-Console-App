@@ -16,4 +16,6 @@ You have four tasks, all related to the time spent cooking the lasagna.
    - It takes the actual minutes the lasagna has been in the oven as a parameter.
    - It returns how many minutes the lasagna still has to remain in the oven.
 3. Calculate the preparation time in minutes
+   - It takes the number of layers you added to the lasagna as a parameter.
+   - It returns how many minutes you spent preparing the lasagna, assuming each layer takes you `2` minutes to prepare.
 4. Calculate the total working time in minutes
