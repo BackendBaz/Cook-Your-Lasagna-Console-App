@@ -10,6 +10,8 @@ In this exercise you're going to write some code to help you cook a brilliant la
 You have four tasks, all related to the time spent cooking the lasagna.
 
 1. Define the expected oven time in minutes
+   - According to the cooking book, the expected oven time in minutes is `40`.
+   - It returns how many minutes the lasagna should be in the oven.
 2. Calculate the remaining oven time in minutes
 3. Calculate the preparation time in minutes
 4. Calculate the total working time in minutes

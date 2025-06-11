@@ -1,5 +1,8 @@
 public class Lasagna {
-    // TODO: define the 'expectedMinutesInOven()' method
+    // 1. Define the 'expectedMinutesInOven()' method
+    public int expectedMinutesInOven() {
+        return 40;
+    }
 
     // TODO: define the 'remainingMinutesInOven()' method
 
